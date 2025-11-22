@@ -19,8 +19,8 @@
       </p>
 
       <p class="description">
-        I've made this to tell you how much you mean to me. Inside, you'll find stories,
-        memories, and a little AI friend to chat with. 
+        I've made this to tell you how much you mean to me
+        
       </p>
 
       <div class="features">
